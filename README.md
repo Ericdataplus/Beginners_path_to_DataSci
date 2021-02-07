@@ -7,7 +7,7 @@ This is my suggested path to learning A.I and Data Science with no prerequisites
 
 # Step 2
 
-[DataQuest](https://app.dataquest.io/dashboard) After you're comfortable with your typing abilities you can get started with python with no prerequisites. DataQuest is free up until midway through pandas (which is pretty great!). I suggest doing the free portion of Dataquest up util step 2 of pandas of avaiable and lastly the available data visualization line charts. 
+[DataQuest](https://app.dataquest.io/dashboard) After you're comfortable with your typing abilities you can get started with python with no prerequisites. DataQuest is free up until midway through pandas (which is pretty great!). I suggest doing the free portion of Dataquest up until step 2 of pandas that's available for free and lastly the available data visualization mission line charts. 
 
 # Step 3
 

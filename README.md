@@ -11,7 +11,7 @@ This is my suggested path to learning A.I and Data Science with no prerequisites
 
 # Step 3
 
-[Kaggle Courses](https://www.kaggle.com/learn/overview) After the free portion of Dataquest ending with line charts you can move onto kaggle's courses. I would skip the Python basiscs portion on Kaggle because you covered that in the free portion of Dataquest (though you can if you want to I just don't suggest it). 
+[Kaggle Courses](https://www.kaggle.com/learn/overview) After the free portion of Dataquest ending with line charts you can move onto kaggle's courses. I would skip the Python basics portion on Kaggle because you covered that in the free portion of Dataquest (though you can if you want to I just don't suggest it). 
 
 Instead start with intro to machine learning which I assume is your reason and motivation to learn programming. All you need is the basics of python which you learned for free on Dataquest and some pandas which you learned for free on Dataquest.
 

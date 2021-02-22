@@ -3,7 +3,7 @@ This is my suggested path to learning A.I and Data Science with no prerequisites
 
 # Step 1
 
-[Typing club](https://www.typingclub.com/) You don't need to touch type to code but it does make learning easier when you don't have to look down all the time to find symbols and to be less discouraged when invetible erros pop up, touch typing will definitely help you iterate through them much quicker. 
+[Typing club](https://www.typingclub.com/) You don't need to touch type to code but it does make learning easier when you don't have to look down all the time to find symbols and to be less discouraged when invetible erros pop up, touch typing will definitely help you iterate through them much more quickly. 
 
 # Step 2
 

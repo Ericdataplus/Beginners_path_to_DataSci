@@ -21,7 +21,13 @@ After intro to machine learning move onto to machine learning intermediate and a
 
 You can either go back to [DataQuest](https://app.dataquest.io/dashboard) if you decide to pay for it to move on from the pandas portion that was locked in the free portion or you can continue on with [Kaggle](https://www.kaggle.com/learn/overview) to the courses after the intermediate machine learning course. 
 
+# step 5 
 
+[freecodecamp](https://www.freecodecamp.org/learn) until your familiar with html, css and vanilla javascript 
+
+# step 6
+
+Learn [Next.js](https://www.youtube.com/watch?v=A63UxsQsEbU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw) and build a bunch of websites
 
 ```python
 
